@@ -12,7 +12,6 @@ gemfile:
   - Gemfile
   - gemfiles/Gemfile.activesupport-5.1
   - gemfiles/Gemfile.activesupport-5.2
-  - gemfiles/Gemfile.activesupport-6.0
 
 notifications:
   email: false
